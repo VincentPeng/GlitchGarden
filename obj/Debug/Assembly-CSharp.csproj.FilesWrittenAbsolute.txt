@@ -1,0 +1,17 @@
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/obj/Debug/Assembly-CSharp.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/UnityEngine.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/UnityEditor.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vincent/Documents/UnityGames/depot/GlitchGarden/Temp/bin/Debug/Mono.Cecil.Mdb.dll
