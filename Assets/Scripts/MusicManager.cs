@@ -24,10 +24,10 @@ public class MusicManager : MonoBehaviour {
 			return;
 		}
 		AudioClip thisLevelMusic = audioClips[level];
-		if(thisLevelMusic) {
+		if (thisLevelMusic) {
 			music.clip = thisLevelMusic;
 			music.loop = true;
-			music.Play();
-		+
+			music.PlayDelayed(1);
+		}
 	}
 }
