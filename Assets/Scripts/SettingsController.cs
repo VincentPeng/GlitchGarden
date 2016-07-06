@@ -7,8 +7,12 @@ public class SettingsController : MonoBehaviour {
 	public Slider volumeSlider;
 	public Slider difficultySlider;
 
+	const float DEFAULT_VOLUME = 0.5f;
+	const int DEFAULT_DIFFICULTY = 1;
+
 	private MusicManager musicManager;
 	private LevelManager levelManager;
+
 
 	// Use this for initialization
 	void Start() {
@@ -28,5 +32,12 @@ public class SettingsController : MonoBehaviour {
 		PlayerPrefsManager.setMasterVolume(volumeSlider.value);
 		PlayerPrefsManager.setDifficulty((int)difficultySlider.value);
 		levelManager.LoadLevel("01 Start Menu");
+	}
+
+	public void SetDefaults() {
+		PlayerPrefsManager.setMasterVolume(DEFAULT_VOLUME);
+		PlayerPrefsManager.setDifficulty(DEFAULT_DIFFICULTY);
+		volumeSlider.value = DEFAULT_VOLUME;
+		difficultySlider.value = DEFAULT_DIFFICULTY;
 	}
 }
