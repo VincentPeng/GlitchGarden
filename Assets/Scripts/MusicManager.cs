@@ -30,4 +30,8 @@ public class MusicManager : MonoBehaviour {
 			music.PlayDelayed(1);
 		}
 	}
+
+	public void SetVolume(float volume) {
+		music.volume = volume;
+	}
 }
