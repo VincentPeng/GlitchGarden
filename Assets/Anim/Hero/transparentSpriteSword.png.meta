@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: 855d2f608fc9646038438c72a2d12b3d
+timeCreated: 1468106157
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: transparentSpriteSword_0
+    21300002: transparentSpriteSword_1
+    21300004: transparentSpriteSword_2
+    21300006: transparentSpriteSword_3
+    21300008: transparentSpriteSword_4
+    21300010: transparentSpriteSword_5
+    21300012: transparentSpriteSword_6
+    21300014: transparentSpriteSword_7
+    21300016: transparentSpriteSword_8
+    21300018: transparentSpriteSword_9
+    21300020: transparentSpriteSword_10
+    21300022: transparentSpriteSword_11
+    21300024: transparentSpriteSword_12
+    21300026: transparentSpriteSword_13
+    21300028: transparentSpriteSword_14
+    21300030: transparentSpriteSword_15
+    21300032: transparentSpriteSword_16
+    21300034: transparentSpriteSword_17
+    21300036: transparentSpriteSword_18
+    21300038: transparentSpriteSword_19
+    21300040: transparentSpriteSword_20
+    21300042: transparentSpriteSword_21
+    21300044: transparentSpriteSword_22
+    21300046: transparentSpriteSword_23
+    21300048: transparentSpriteSword_24
+    21300050: transparentSpriteSword_25
+    21300052: transparentSpriteSword_26
+    21300054: transparentSpriteSword_27
+    21300056: transparentSpriteSword_28
+    21300058: transparentSpriteSword_29
+    21300060: transparentSpriteSword_30
+    21300062: transparentSpriteSword_31
+    21300064: transparentSpriteSword_32
+    21300066: transparentSpriteSword_33
+    21300068: transparentSpriteSword_34
+    21300070: transparentSpriteSword_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.33333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: transparentSpriteSword_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 926
+        width: 102
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: transparentSpriteSword_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 931
+        width: 85
+        height: 123
+      alignment: 9
+      pivot: {x: 0.67899835, y: 0.00000049622076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.714859, y: 122.99994}
+        - {x: -57.71486, y: 47.99994}
+        - {x: -57.71486, y: 24.999939}
+        - {x: -29.714859, y: -0.000061035156}
+        - {x: 21.285141, y: -0.000061035156}
+        - {x: 27.285141, y: 7.999939}
+        - {x: 27.285141, y: 97.99994}
+        - {x: 18.285141, y: 122.99994}
+    - name: transparentSpriteSword_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 925
+        width: 85
+        height: 129
+      alignment: 9
+      pivot: {x: 0.66846853, y: 0.013876271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.819824, y: 127.20996}
+        - {x: -19.819824, y: 126.20996}
+        - {x: -56.819824, y: 51.20996}
+        - {x: -56.819824, y: 43.20996}
+        - {x: -22.819824, y: 2.209961}
+        - {x: 19.180176, y: 2.209961}
+        - {x: 28.180176, y: 13.209961}
+        - {x: 28.180176, y: 111.20996}
+        - {x: 21.180176, y: 127.20996}
+    - name: transparentSpriteSword_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 930
+        width: 85
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6579403, y: 0.02182925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.924927, y: 120.315}
+        - {x: -35.924927, y: 86.315}
+        - {x: -37.924927, y: 73.315}
+        - {x: -24.924927, y: 69.315}
+        - {x: -18.924927, y: 73.315}
+        - {x: -15.924927, y: 71.315}
+        - {x: -18.924927, y: 71.315}
+        - {x: -55.924927, y: 46.315002}
+        - {x: -55.924927, y: 24.315002}
+        - {x: -23.924927, y: -2.6849976}
+        - {x: 18.075073, y: -2.6849976}
+        - {x: 29.075073, y: 10.315002}
+        - {x: 29.075073, y: 76.315}
+        - {x: 16.075073, y: 120.315}
+    - name: transparentSpriteSword_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 930
+        width: 86
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6561031, y: 0.0072765816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.575134, y: 122.10498}
+        - {x: -9.424866, y: 122.10498}
+        - {x: -13.424866, y: 121.10498}
+        - {x: -30.424866, y: 73.10498}
+        - {x: -56.424866, y: 47.10498}
+        - {x: -56.424866, y: 27.10498}
+        - {x: -27.424866, y: -0.89501953}
+        - {x: 15.575134, y: -0.89501953}
+        - {x: 28.575134, y: 8.10498}
+        - {x: 29.575134, y: 12.10498}
+        - {x: 29.575134, y: 75.10498}
+    - name: transparentSpriteSword_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 939
+        width: 98
+        height: 117
+      alignment: 9
+      pivot: {x: 0.45433697, y: 0.000000521668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.474976, y: 41.99994}
+        - {x: 13.474976, y: 116.99994}
+        - {x: -18.525024, y: 116.99994}
+        - {x: -22.525024, y: 115.99994}
+        - {x: -37.525024, y: 30.999939}
+        - {x: -37.525024, y: 24.999939}
+        - {x: -32.525024, y: -0.000061035156}
+        - {x: 23.474976, y: -0.000061035156}
+        - {x: 24.474976, y: 1.999939}
+        - {x: 53.474976, y: 33.99994}
+        - {x: 53.474976, y: 39.99994}
+    - name: transparentSpriteSword_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 759
+        width: 74
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 110}
+        - {x: -37, y: 92}
+        - {x: -37, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 71}
+        - {x: 23, y: 110}
+    - name: transparentSpriteSword_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 758
+        width: 79
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47734204, y: 0.0000005449568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.289978, y: 109.99994}
+        - {x: 16.289978, y: 111.99994}
+        - {x: -17.710022, y: 111.99994}
+        - {x: -20.710022, y: 110.99994}
+        - {x: -37.710022, y: 83.99994}
+        - {x: -37.710022, y: -0.000061035156}
+        - {x: 13.289978, y: -0.000061035156}
+        - {x: 41.289978, y: 30.999939}
+        - {x: 41.289978, y: 38.99994}
+        - {x: 34.289978, y: 43.99994}
+    - name: transparentSpriteSword_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 758
+        width: 99
+        height: 112
+      alignment: 9
+      pivot: {x: 0.35535532, y: 0.015982492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.819824, y: 75.20996}
+        - {x: 25.819824, y: 101.20996}
+        - {x: 17.819824, y: 109.20996}
+        - {x: 13.819824, y: 110.20996}
+        - {x: -16.180176, y: 110.20996}
+        - {x: -35.180176, y: 93.20996}
+        - {x: -35.180176, y: 17.20996}
+        - {x: -20.180176, y: 1.2099609}
+        - {x: -16.180176, y: -1.7900391}
+        - {x: 20.819824, y: -1.7900391}
+        - {x: 24.819824, y: 18.20996}
+        - {x: 63.819824, y: 64.20996}
+        - {x: 63.819824, y: 72.20996}
+    - name: transparentSpriteSword_9
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 759
+        width: 91
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 105}
+        - {x: 42.5, y: 106}
+        - {x: 34.5, y: 100}
+        - {x: 16.5, y: 71}
+        - {x: 19.5, y: 87}
+        - {x: 19.5, y: 110}
+        - {x: 14.5, y: 111}
+        - {x: -15.5, y: 111}
+        - {x: -40.5, y: 81}
+        - {x: -45.5, y: 50}
+        - {x: -45.5, y: 2}
+        - {x: -40.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 42.5, y: 5}
+        - {x: 45.5, y: 72}
+    - name: transparentSpriteSword_10
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 758
+        width: 90
+        height: 112
+      alignment: 9
+      pivot: {x: 0.40055677, y: 0.0000005449568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.05011, y: 111.99994}
+        - {x: -36.05011, y: 100.99994}
+        - {x: -36.05011, y: 2.999939}
+        - {x: -35.05011, y: -0.000061035156}
+        - {x: 22.94989, y: -0.000061035156}
+        - {x: 53.94989, y: 59.99994}
+        - {x: 53.94989, y: 111.99994}
+    - name: transparentSpriteSword_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 758
+        width: 94
+        height: 112
+      alignment: 9
+      pivot: {x: 0.32861847, y: 0.007991246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.109863, y: 111.10498}
+        - {x: -17.890137, y: 111.10498}
+        - {x: -30.890137, y: 68.10498}
+        - {x: -30.890137, y: 63.10498}
+        - {x: -23.890137, y: 63.10498}
+        - {x: -30.890137, y: 57.10498}
+        - {x: -30.890137, y: 3.1049805}
+        - {x: -29.890137, y: -0.89501953}
+        - {x: 31.109863, y: -0.89501953}
+        - {x: 63.109863, y: 66.10498}
+        - {x: 63.109863, y: 73.10498}
+        - {x: 42.109863, y: 73.10498}
+    - name: transparentSpriteSword_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 577
+        width: 91
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 56}
+        - {x: 39.5, y: 108}
+        - {x: -6.5, y: 108}
+        - {x: -45.5, y: 60}
+        - {x: -45.5, y: 7}
+        - {x: -22.5, y: 0}
+        - {x: 32.5, y: 0}
+        - {x: 35.5, y: 2}
+        - {x: 37.5, y: 14}
+        - {x: 34.5, y: 19}
+        - {x: 45.5, y: 25}
+    - name: transparentSpriteSword_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 578
+        width: 106
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 107}
+        - {x: -53, y: 85}
+        - {x: -53, y: 22}
+        - {x: -37, y: 0}
+        - {x: 12, y: 0}
+        - {x: 53, y: 54}
+        - {x: 53, y: 83}
+        - {x: 23, y: 107}
+    - name: transparentSpriteSword_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 578
+        width: 103
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 107}
+        - {x: -27.5, y: 107}
+        - {x: -51.5, y: 95}
+        - {x: -51.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 28.5, y: 14}
+        - {x: 51.5, y: 70}
+        - {x: 51.5, y: 102}
+    - name: transparentSpriteSword_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 577
+        width: 102
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 108}
+        - {x: -51, y: 75}
+        - {x: -51, y: 9}
+        - {x: -44, y: 0}
+        - {x: 37, y: 0}
+        - {x: 51, y: 82}
+        - {x: 51, y: 103}
+        - {x: 39, y: 108}
+    - name: transparentSpriteSword_16
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 578
+        width: 105
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 108}
+        - {x: -52.5, y: 71}
+        - {x: -52.5, y: 29}
+        - {x: -32.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 52.5, y: 61}
+        - {x: 52.5, y: 102}
+        - {x: 36.5, y: 108}
+    - name: transparentSpriteSword_17
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 578
+        width: 106
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 108}
+        - {x: -5, y: 108}
+        - {x: -40, y: 82}
+        - {x: -35, y: 71}
+        - {x: -30, y: 67}
+        - {x: -27, y: 67}
+        - {x: -25, y: 69}
+        - {x: -23, y: 67}
+        - {x: -24, y: 67}
+        - {x: -28, y: 66}
+        - {x: -53, y: 62}
+        - {x: -53, y: 4}
+        - {x: -46, y: 0}
+        - {x: 12, y: 0}
+        - {x: 53, y: 50}
+        - {x: 53, y: 65}
+    - name: transparentSpriteSword_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 391
+        width: 95
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 105}
+        - {x: -46.5, y: 82}
+        - {x: -47.5, y: 75}
+        - {x: -47.5, y: 9}
+        - {x: -43.5, y: 0}
+        - {x: -10.5, y: 0}
+        - {x: 4.5, y: 3}
+        - {x: 47.5, y: 20}
+        - {x: 47.5, y: 90}
+        - {x: 38.5, y: 105}
+    - name: transparentSpriteSword_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 393
+        width: 86
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 106}
+        - {x: -20, y: 106}
+        - {x: -43, y: 93}
+        - {x: -43, y: 0}
+        - {x: -21, y: 0}
+        - {x: 38, y: 36}
+        - {x: 43, y: 44}
+        - {x: 43, y: 99}
+    - name: transparentSpriteSword_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 391
+        width: 95
+        height: 105
+      alignment: 9
+      pivot: {x: 0.3586856, y: 0.042619396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.075134, y: 100.52496}
+        - {x: -34.075134, y: 88.52496}
+        - {x: -34.075134, y: 4.5249634}
+        - {x: -30.075134, y: -4.4750366}
+        - {x: 22.924866, y: -4.4750366}
+        - {x: 60.924866, y: 28.524963}
+        - {x: 60.924866, y: 90.52496}
+        - {x: 52.924866, y: 100.52496}
+    - name: transparentSpriteSword_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 395
+        width: 86
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3230839, y: 0.024409346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.214783, y: 107.31497}
+        - {x: -6.7852173, y: 107.31497}
+        - {x: -27.785217, y: 75.31497}
+        - {x: -27.785217, y: -2.685028}
+        - {x: 7.2147827, y: -2.685028}
+        - {x: 32.214783, y: 2.314972}
+        - {x: 58.214783, y: 69.31497}
+        - {x: 58.214783, y: 94.31497}
+    - name: transparentSpriteSword_22
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 391
+        width: 74
+        height: 112
+      alignment: 9
+      pivot: {x: 0.6935111, y: 0.03196471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.31982422, y: 86.41995}
+        - {x: -0.31982422, y: 83.41995}
+        - {x: -2.3198242, y: 80.41995}
+        - {x: -4.319824, y: 80.41995}
+        - {x: -6.319824, y: 79.41995}
+        - {x: -7.319824, y: 78.41995}
+        - {x: -3.3198242, y: 80.41995}
+        - {x: -1.3198242, y: 83.41995}
+        - {x: -3.3198242, y: 88.41995}
+        - {x: -16.319824, y: 108.41995}
+        - {x: -51.319824, y: 108.41995}
+        - {x: -51.319824, y: 1.4199524}
+        - {x: -39.319824, y: -3.5800476}
+        - {x: 12.680176, y: -3.5800476}
+        - {x: 22.680176, y: 0.4199524}
+        - {x: 22.680176, y: 99.41995}
+        - {x: 19.680176, y: 100.41995}
+    - name: transparentSpriteSword_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 395
+        width: 104
+        height: 92
+      alignment: 9
+      pivot: {x: 0.8958617, y: 0.019456947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.169617, y: 82.20996}
+        - {x: -24.169617, y: 74.20996}
+        - {x: -59.169617, y: 90.20996}
+        - {x: -93.16962, y: 90.20996}
+        - {x: -93.16962, y: 32.20996}
+        - {x: -89.16962, y: 12.209961}
+        - {x: -70.16962, y: 17.20996}
+        - {x: -67.16962, y: 19.20996}
+        - {x: -66.16962, y: 22.20996}
+        - {x: -66.16962, y: 41.20996}
+        - {x: -66.16962, y: 28.20996}
+        - {x: -49.169617, y: -1.7900391}
+        - {x: 10.830383, y: -1.7900391}
+        - {x: 10.830383, y: 54.20996}
+        - {x: -3.1696167, y: 81.20996}
+    - name: transparentSpriteSword_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 107
+        height: 59
+      alignment: 9
+      pivot: {x: 0.92658424, y: 0.045508433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.144516, y: 56.315002}
+        - {x: -99.144516, y: 54.315002}
+        - {x: -99.144516, y: -2.6849976}
+        - {x: 7.855484, y: -2.6849976}
+        - {x: 7.855484, y: 42.315002}
+        - {x: -48.144516, y: 56.315002}
+    - name: transparentSpriteSword_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 213
+        width: 85
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6684687, y: 0.00000013503353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.18016, y: 105.999985}
+        - {x: 20.18016, y: 112.999985}
+        - {x: -43.81984, y: 112.999985}
+        - {x: -56.81984, y: 110.999985}
+        - {x: -56.81984, y: 97.999985}
+        - {x: -45.81984, y: 91.999985}
+        - {x: -41.81984, y: 24.999985}
+        - {x: -31.81984, y: -0.000015258789}
+        - {x: -6.8198395, y: -0.000015258789}
+        - {x: -5.8198395, y: 0.99998474}
+        - {x: 0.18016052, y: -0.000015258789}
+        - {x: 28.18016, y: -0.000015258789}
+    - name: transparentSpriteSword_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 213
+        width: 85
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6684682, y: 0.015840648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.180206, y: 111.21001}
+        - {x: -27.819794, y: 111.21001}
+        - {x: -56.819794, y: 107.21001}
+        - {x: -56.819794, y: 96.21001}
+        - {x: -45.819794, y: 90.21001}
+        - {x: -36.819794, y: 1.2100067}
+        - {x: -28.819794, y: -1.7899933}
+        - {x: 28.180206, y: -1.7899933}
+        - {x: 28.180206, y: 67.21001}
+        - {x: 22.180206, y: 90.21001}
+    - name: transparentSpriteSword_27
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 202
+        width: 97
+        height: 111
+      alignment: 9
+      pivot: {x: 0.35237232, y: 0.11288218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.819885, y: 76.47008}
+        - {x: 37.819885, y: 72.47008}
+        - {x: 36.819885, y: 69.47008}
+        - {x: 28.819885, y: 89.47008}
+        - {x: 20.819885, y: 98.47008}
+        - {x: -3.1801147, y: 98.47008}
+        - {x: -34.180115, y: 75.47008}
+        - {x: -34.180115, y: -6.5299225}
+        - {x: -22.180115, y: -12.5299225}
+        - {x: 38.819885, y: -12.5299225}
+        - {x: 49.819885, y: -5.5299225}
+        - {x: 62.819885, y: 17.470078}
+        - {x: 62.819885, y: 53.470078}
+        - {x: 56.819885, y: 65.47008}
+    - name: transparentSpriteSword_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 202
+        width: 60
+        height: 111
+      alignment: 9
+      pivot: {x: 0.529834, y: 0.12094515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.790039, y: 97.57509}
+        - {x: -31.79004, y: 76.57509}
+        - {x: -31.79004, y: -1.4249115}
+        - {x: -22.79004, y: -6.4249115}
+        - {x: 12.209961, y: -13.4249115}
+        - {x: 26.20996, y: -13.4249115}
+        - {x: 28.20996, y: -10.4249115}
+        - {x: 28.20996, y: 91.57509}
+        - {x: 24.20996, y: 97.57509}
+    - name: transparentSpriteSword_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 193
+        width: 75
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 93}
+        - {x: -37.5, y: 76}
+        - {x: -37.5, y: 17}
+        - {x: -4.5, y: 0}
+        - {x: 37.5, y: 0}
+        - {x: 37.5, y: 47}
+        - {x: 19.5, y: 93}
+    - name: transparentSpriteSword_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 33
+        width: 87
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6851704, y: 0.047521643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.609825, y: 107.63005}
+        - {x: -59.609825, y: 61.630054}
+        - {x: -38.609825, y: -2.3699455}
+        - {x: -27.609825, y: -5.3699455}
+        - {x: 27.390175, y: -5.3699455}
+        - {x: 27.390175, y: 94.63005}
+        - {x: 18.390175, y: 107.63005}
+    - name: transparentSpriteSword_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 23
+        width: 96
+        height: 110
+      alignment: 9
+      pivot: {x: 0.32286644, y: 0.13831742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.00482, y: 72.78508}
+        - {x: 39.00482, y: 68.78508}
+        - {x: 30.004822, y: 84.78508}
+        - {x: 24.004822, y: 94.78508}
+        - {x: -2.9951782, y: 94.78508}
+        - {x: -30.995178, y: 75.78508}
+        - {x: -30.995178, y: -15.214916}
+        - {x: 42.00482, y: -15.214916}
+        - {x: 65.00482, y: 5.785084}
+        - {x: 65.00482, y: 52.785084}
+        - {x: 51.00482, y: 71.78508}
+    - name: transparentSpriteSword_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 23
+        width: 59
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5151698, y: 0.13018116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.39502, y: 95.68007}
+        - {x: -30.39502, y: 75.68007}
+        - {x: -30.39502, y: -3.3199272}
+        - {x: -25.39502, y: -10.319927}
+        - {x: -11.39502, y: -14.319927}
+        - {x: 28.60498, y: -14.319927}
+        - {x: 28.60498, y: 95.68007}
+    - name: transparentSpriteSword_33
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 35
+        width: 57
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 98}
+        - {x: -28.5, y: 73}
+        - {x: -28.5, y: 4}
+        - {x: -26.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 28.5, y: 98}
+    - name: transparentSpriteSword_34
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 35
+        width: 116
+        height: 110
+      alignment: 9
+      pivot: {x: 0.28396818, y: 0.032545783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.940308, y: 106.41997}
+        - {x: -32.940308, y: 96.41997}
+        - {x: -32.940308, y: -3.5800362}
+        - {x: 46.059692, y: -3.5800362}
+        - {x: 83.05969, y: 38.419964}
+        - {x: 83.05969, y: 106.41997}
+    - name: transparentSpriteSword_35
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 36
+        width: 115
+        height: 110
+      alignment: 9
+      pivot: {x: 0.26652354, y: 0.024409346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.6502075, y: 107.31497}
+        - {x: -27.650208, y: 72.31497}
+        - {x: -30.650208, y: 56.314972}
+        - {x: -30.650208, y: 3.314972}
+        - {x: -23.650208, y: -2.685028}
+        - {x: 28.349792, y: -2.685028}
+        - {x: 39.349792, y: 27.314972}
+        - {x: 84.34979, y: 89.31497}
+        - {x: 84.34979, y: 107.31497}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
